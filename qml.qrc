@@ -1,0 +1,17 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>../textures/Texture2D/Tap2.png</file>
+        <file>../textures/Sprite/Hold.png</file>
+        <file>../textures/Texture2D/Tap2HL.png</file>
+        <file>../textures/Sprite/Hold2HL_0.png</file>
+        <file>../textures/Sprite/Hold2HL_1.png</file>
+        <file>../textures/Sprite/Hold_Head.png</file>
+        <file>../textures/Sprite/Hold_End.png</file>
+        <file>../textures/Sprite/Flick2HL.png</file>
+        <file>../textures/Sprite/Flick2.png</file>
+        <file>../textures/Sprite/DragHL.png</file>
+        <file>../textures/Sprite/Drag (1).png</file>
+        <file>ChartViewer.qml</file>
+    </qresource>
+</RCC>
